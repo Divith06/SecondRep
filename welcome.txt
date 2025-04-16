@@ -1,3 +1,7 @@
 Welcome
 my first pull
+<<<<<<< HEAD
 In my second branch b2
+=======
+
+>>>>>>> b1
