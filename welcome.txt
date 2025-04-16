@@ -1,7 +1,14 @@
 Welcome
 my first pull
 <<<<<<< HEAD
+<<<<<<< HEAD
 In my second branch b2
 =======
 
 >>>>>>> b1
+=======
+
+
+Last update
+
+>>>>>>> b2
